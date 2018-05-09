@@ -4,6 +4,7 @@
 int main(void){
 	printHello();
 	printBye();
+	printHello();	
 
 	return 0;
 }
